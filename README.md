@@ -8,7 +8,6 @@ A simple, clean, and responsive **Todo Website** built using **React.js**, **Jav
 
 * ➕ Add new tasks
 * ❌ Delete tasks
-* ✅ Mark tasks as completed
 * 📱 Fully responsive design
 * 🎨 Clean and minimal UI
 
